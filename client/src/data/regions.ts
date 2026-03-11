@@ -1,0 +1,18 @@
+export const ghanaRegions = [
+  { name: 'Greater Accra', isHome: true },
+  { name: 'Ashanti', isHome: false },
+  { name: 'Western', isHome: false },
+  { name: 'Western North', isHome: false },
+  { name: 'Central', isHome: false },
+  { name: 'Eastern', isHome: false },
+  { name: 'Volta', isHome: false },
+  { name: 'Oti', isHome: false },
+  { name: 'Northern', isHome: false },
+  { name: 'Savannah', isHome: false },
+  { name: 'North East', isHome: false },
+  { name: 'Upper East', isHome: false },
+  { name: 'Upper West', isHome: false },
+  { name: 'Bono', isHome: false },
+  { name: 'Bono East', isHome: false },
+  { name: 'Ahafo', isHome: false },
+];
