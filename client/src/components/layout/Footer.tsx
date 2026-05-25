@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import { ArrowUp, Mail, MapPin, Clock, MessageCircle } from 'lucide-react';
 import { SiInstagram, SiTiktok, SiYoutube, SiWhatsapp } from 'react-icons/si';
 import { COMPANY_INFO, SOCIAL_MEDIA, NAV_LINKS } from '@/data/constants';
-import logoImg from '@assets/ke_logo_v2_nobg.png';
+import logoImg from '@assets/new_logo_nobg.png';
 import ecLogoImg from '@assets/mda_1632695752_1773006442956.jpeg';
 
 export default function Footer() {

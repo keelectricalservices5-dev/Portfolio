@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { COMPANY_INFO, NAV_LINKS } from '@/data/constants';
-import logoImg from '@assets/ke_logo_v2_nobg.png';
+import logoImg from '@assets/new_logo_nobg.png';
 
 export default function Header() {
   const [isScrolled, setIsScrolled] = useState(false);
